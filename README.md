@@ -1,7 +1,6 @@
 [![Master Head](https://www.gizmodo.com.au/wp-content/uploads/sites/2/2017/09/12/pwl9mwg0qu5vdagwstde.gif?quality=80&resize=1280,720)](http://darkwave.42web.io)
 <h1 align="center">X-3306</h1>
 <h3 align="center">Ethical hacker / Pentester / Bug Bounty / AI</h3>
-<img align="right" alt="Hacking" width="400" src="https://www.gizmodo.com.au/wp-content/uploads/sites/2/2017/09/12/pwl9mwg0qu5vdagwstde.gif?quality=80&resize=1280,720">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=x-3306&label=Profile%20views&color=00ff7b&style=flat" alt="x-3306" /> </p>
 
