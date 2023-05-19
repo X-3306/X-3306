@@ -1,4 +1,4 @@
-[![Master Head]([https://www.gizmodo.com.au/wp-content/uploads/sites/2/2017/09/12/pwl9mwg0qu5vdagwstde.gif?quality=80&resize=1280,720)](http://darkwave.42web.io](https://img1.picmix.com/output/stamp/normal/5/5/2/6/2036255_4e693.gif)
+[![Master Head](https://img1.picmix.com/output/stamp/normal/5/5/2/6/2036255_4e693.gif)](http://darkwave.42web.io)
 <h1 align="center">X-3306</h1>
 <h3 align="center">Ethical hacker / Pentester / Bug Bounty / AI</h3>
 
