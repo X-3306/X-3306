@@ -2,7 +2,6 @@
 <h1 align="center">Hi X-3306</h1>
 <h3 align="center">Ethical hacker / Pentester / Bug Bounty / AI</h3>
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=x-3306&label=Profile%20views&color=00ff7b&style=flat" alt="x-3306" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=x-3306" alt="x-3306" /></a> </p>
