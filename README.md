@@ -1,4 +1,4 @@
-[![MasterHead](https://t3.ftcdn.net/jpg/01/63/80/84/360_F_163808488_OeektqKa5hbn0gfSKrdAibeMXISwIDAX.jpg)](https://darkwave.42web.io/)
+[![MasterHead](https://vpnoverview.com/wp-content/uploads/what-is-a-hacker-what-is-hacking-featured-800x400.png)](https://darkwave.42web.io/)
 <h1 align="center">Hi X-3306</h1>
 <h3 align="center">Ethical hacker / Pentester / Bug Bounty / AI</h3>
 
