@@ -1,6 +1,7 @@
-[![MasterHead](https://img1.picmix.com/output/stamp/normal/5/5/2/6/2036255_4e693.gif)](https://darkwave.42web.io)
+[![MasterHead](https://img1.picmix.com/output/stamp/normal/5/5/2/6/2036255_4e693.gif)](https://darkwave.42web.io/)
 <h1 align="center">Hi X-3306</h1>
 <h3 align="center">Ethical hacker / Pentester / Bug Bounty / AI</h3>
+<img align="right" alt="Hacking" width="400" src="https://media.tenor.com/zzntm2_9B3gAAAAC/hacker.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=x-3306&label=Profile%20views&color=00ff7b&style=flat" alt="x-3306" /> </p>
 
@@ -24,4 +25,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=x-3306&show_icons=true&locale=en" alt="x-3306" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=x-3306&" alt="x-3306" /></p>
-
