@@ -1,5 +1,5 @@
 [![Master Head](https://img1.picmix.com/output/stamp/normal/5/5/2/6/2036255_4e693.gif)](http://darkwave.42web.io)
-<h1 align="center">X-3306</h1>
+<h1 align="center">Hi X-3306</h1>
 <h3 align="center">Ethical hacker / Pentester / Bug Bounty / AI</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=x-3306&label=Profile%20views&color=00ff7b&style=flat" alt="x-3306" /> </p>
@@ -13,6 +13,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://medium.com/medium.com/@x-3306" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="medium.com/@x-3306" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/x-3306" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="x-3306" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -23,3 +24,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=x-3306&show_icons=true&locale=en" alt="x-3306" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=x-3306&" alt="x-3306" /></p>
+
