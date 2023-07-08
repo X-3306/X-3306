@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=x-3306" alt="x-3306" /></a> </p>
 
-- 📝 I regularly write articles on [https://darkwave.totalh.net](https://darkwave.totalh.net)
+- 📝 I regularly write articles on [xxx](xxx)
 
 - 📫 How to reach me **Cyber.Buslness@protonmail.com**
 
