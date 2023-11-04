@@ -1,6 +1,6 @@
 [![MasterHead](https://vpnoverview.com/wp-content/uploads/what-is-a-hacker-what-is-hacking-featured-800x400.png)](https://darkwave.42web.io/)
 <h1 align="center">X-3306</h1>
-<h3 align="center">Ethical hacking / Pentesting / Bug Bounty / AI / Web Development</h3>
+<h3 align="center">Cyber Security / Pentesting / Bug Bounty / AI / Web Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=x-3306&label=Profile%20views&color=00ff7b&style=flat" alt="x-3306" /> </p>
 
