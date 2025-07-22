@@ -8,7 +8,7 @@
 
 - 📝 Sometimes I write articles on ([medium.com](https://medium.com/@X-3306))
 
-- 📫 How to reach me **Cyber.Buslness@protonmail.com**
+- 📫 How to reach me **X3306.Business@proton.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
