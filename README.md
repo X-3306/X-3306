@@ -1,4 +1,3 @@
-[![MasterHead](https://vpnoverview.com/wp-content/uploads/what-is-a-hacker-what-is-hacking-featured-800x400.png)](https://darkwave.42web.io/)
 <h1 align="center">X-3306</h1>
 <h3 align="center">Cyber Security / Pentesting / Bug Bounty / AI / Web Development</h3>
 
